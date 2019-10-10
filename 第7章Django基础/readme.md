@@ -8,3 +8,4 @@
 
 ## 0701 基础django练习
 ## 0702 bbs django模板
+## 0703 bbs CBV重构
