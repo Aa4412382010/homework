@@ -10,3 +10,4 @@
 ## 0702 bbs django模板
 ## 0703 bbs CBV重构
 ## 0704 备忘录 django模板
+## 0705 商城 django模板
